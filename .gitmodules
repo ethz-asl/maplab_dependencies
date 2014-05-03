@@ -1,0 +1,18 @@
+[submodule "protobuf_catkin"]
+	path = protobuf_catkin
+	url = git@github.com:ethz-asl/protobuf_catkin.git
+[submodule "glog_catkin"]
+	path = glog_catkin
+	url = git@github.com:ethz-asl/glog_catkin.git
+[submodule "gflags_catkin"]
+	path = gflags_catkin
+	url = git@github.com:ethz-asl/gflags_catkin.git
+[submodule "ceres_catkin"]
+	path = ceres_catkin
+	url = git@github.com:ethz-asl/ceres_catkin.git
+[submodule "suitesparse"]
+	path = suitesparse
+	url = git@github.com:ethz-asl/suitesparse.git
+[submodule "catkin_zeromq"]
+	path = catkin_zeromq
+	url = git@github.com:ethz-asl/catkin_zeromq.git
