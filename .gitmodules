@@ -19,3 +19,9 @@
 [submodule "catkin_poco"]
 	path = catkin_poco
 	url = git@github.com:ethz-asl/catkin_poco.git
+[submodule "poco_catkin"]
+	path = poco_catkin
+	url = git@github.com:ethz-asl/poco_catkin.git
+[submodule "zeromq_catkin"]
+	path = zeromq_catkin
+	url = git@github.com:ethz-asl/zeromq_catkin.git
