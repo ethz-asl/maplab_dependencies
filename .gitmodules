@@ -31,3 +31,6 @@
 [submodule "eigen_catkin"]
 	path = eigen_catkin
 	url = git@github.com:ethz-asl/eigen_catkin.git
+[submodule "yaml_cpp_catkin"]
+	path = yaml_cpp_catkin
+	url = git@github.com:ethz-asl/yaml_cpp_catkin.git
