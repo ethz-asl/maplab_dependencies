@@ -34,3 +34,6 @@
 [submodule "yaml_cpp_catkin"]
 	path = yaml_cpp_catkin
 	url = git@github.com:ethz-asl/yaml_cpp_catkin.git
+[submodule "sparsehash_catkin"]
+	path = sparsehash_catkin
+	url = git@github.com:ethz-asl/sparsehash_catkin.git
