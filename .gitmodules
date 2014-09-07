@@ -37,3 +37,6 @@
 [submodule "sparsehash_catkin"]
 	path = sparsehash_catkin
 	url = git@github.com:ethz-asl/sparsehash_catkin.git
+[submodule "gmock_catkin"]
+	path = gmock_catkin
+	url = git@github.com:ethz-asl/gmock_catkin.git
