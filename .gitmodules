@@ -40,3 +40,6 @@
 [submodule "gmock_catkin"]
 	path = gmock_catkin
 	url = git@github.com:ethz-asl/gmock_catkin.git
+[submodule "nlopt"]
+	path = nlopt
+	url = git@github.com:ethz-asl/nlopt.git
