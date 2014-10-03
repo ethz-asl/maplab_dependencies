@@ -43,3 +43,6 @@
 [submodule "stxxl_catkin"]
 	path = stxxl_catkin
 	url = git@github.com:ethz-asl/stxxl_catkin.git
+[submodule "nlopt"]
+	path = nlopt
+	url = git@github.com:ethz-asl/nlopt.git
