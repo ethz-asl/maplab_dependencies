@@ -49,3 +49,6 @@
 [submodule "gtsam_catkin"]
 	path = gtsam_catkin
 	url = git@github.com:ethz-asl/gtsam_catkin.git
+[submodule "gperftools_catkin"]
+	path = gperftools_catkin
+	url = git@github.com:ethz-asl/gperftools_catkin.git
