@@ -46,6 +46,3 @@
 [submodule "nlopt"]
 	path = nlopt
 	url = git@github.com:ethz-asl/nlopt.git
-[submodule "gtsam_catkin"]
-	path = gtsam_catkin
-	url = git@github.com:ethz-asl/gtsam_catkin.git
