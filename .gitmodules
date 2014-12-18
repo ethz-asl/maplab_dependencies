@@ -49,3 +49,6 @@
 [submodule "gtsam_catkin"]
 	path = gtsam_catkin
 	url = git@github.com:ethz-asl/gtsam_catkin.git
+[submodule "lpsolve_catkin"]
+	path = lpsolve_catkin
+	url = git@github.com:ethz-asl/lpsolve_catkin.git
