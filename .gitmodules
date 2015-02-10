@@ -52,3 +52,6 @@
 [submodule "lpsolve_catkin"]
 	path = lpsolve_catkin
 	url = git@github.com:ethz-asl/lpsolve_catkin.git
+[submodule "metis_catkin"]
+	path = metis_catkin
+	url = git@github.com:ethz-asl/metis_catkin.git
