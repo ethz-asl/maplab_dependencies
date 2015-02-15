@@ -55,3 +55,6 @@
 [submodule "gurobi_catkin"]
 	path = gurobi_catkin
 	url = git@github.com:ethz-asl/gurobi_catkin.git
+[submodule "metis_catkin"]
+	path = metis_catkin
+	url = git@github.com:ethz-asl/metis_catkin.git
