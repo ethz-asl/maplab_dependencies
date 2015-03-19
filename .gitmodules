@@ -55,3 +55,6 @@
 [submodule "metis_catkin"]
 	path = metis_catkin
 	url = git@github.com:ethz-asl/metis_catkin.git
+[submodule "openvdb_catkin"]
+	path = openvdb_catkin
+	url = git@github.com:ethz-asl/openvdb_catkin.git
