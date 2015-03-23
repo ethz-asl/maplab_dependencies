@@ -61,3 +61,6 @@
 [submodule "cmvs_pmvs_catkin"]
 	path = cmvs_pmvs_catkin
 	url = git@github.com:ethz-asl/cmvs_pmvs_catkin.git
+[submodule "gurobi_catkin"]
+	path = gurobi_catkin
+	url = git@github.com:ethz-asl/gurobi_catkin.git
