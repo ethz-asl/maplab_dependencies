@@ -1,0 +1,11 @@
+<package>
+  <name>qhull_catkin</name>
+  <version>0.0.0</version>
+  <description>qhull_catkin</description>
+  <maintainer email="titus.cieslewski@mavt.ethz.ch">tcies</maintainer>
+
+  <license>See package</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+</package>
