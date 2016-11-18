@@ -37,9 +37,6 @@
 [submodule "sparsehash_catkin"]
 	path = sparsehash_catkin
 	url = git@github.com:ethz-asl/sparsehash_catkin.git
-[submodule "gmock_catkin"]
-	path = gmock_catkin
-	url = git@github.com:ethz-asl/gmock_catkin.git
 [submodule "stxxl_catkin"]
 	path = stxxl_catkin
 	url = git@github.com:ethz-asl/stxxl_catkin.git
@@ -61,3 +58,6 @@
 [submodule "cmvs_pmvs_catkin"]
 	path = cmvs_pmvs_catkin
 	url = git@github.com:ethz-asl/cmvs_pmvs_catkin.git
+[submodule "opencv3_catkin"]
+	path = opencv3_catkin
+	url = git@github.com:ethz-asl/opencv3_catkin.git
