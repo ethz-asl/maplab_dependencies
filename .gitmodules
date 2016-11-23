@@ -25,9 +25,6 @@
 [submodule "zeromq_catkin"]
 	path = zeromq_catkin
 	url = git@github.com:ethz-asl/zeromq_catkin.git
-[submodule "opencv2_catkin"]
-	path = opencv2_catkin
-	url = git@github.com:ethz-asl/opencv2_catkin.git
 [submodule "eigen_catkin"]
 	path = eigen_catkin
 	url = git@github.com:ethz-asl/eigen_catkin.git
