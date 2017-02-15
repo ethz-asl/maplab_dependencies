@@ -61,3 +61,6 @@
 [submodule "vision_opencv"]
 	path = vision_opencv
 	url = git@github.com:ethz-asl/vision_opencv.git
+[submodule "pcl_catkin"]
+	path = pcl_catkin
+	url = git@github.com:ethz-asl/pcl_catkin.git
