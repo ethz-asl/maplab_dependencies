@@ -64,3 +64,6 @@
 [submodule "pcl_catkin"]
 	path = pcl_catkin
 	url = git@github.com:ethz-asl/pcl_catkin.git
+[submodule "casablanca_catkin"]
+	path = casablanca_catkin
+	url = git@github.com:ethz-asl/casablanca_catkin.git
