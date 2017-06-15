@@ -64,3 +64,6 @@
 [submodule "pcl_catkin"]
 	path = pcl_catkin
 	url = git@github.com:ethz-asl/pcl_catkin.git
+[submodule "benchmark_catkin"]
+	path = benchmark_catkin
+	url = git@github.com:ethz-asl/benchmark_catkin.git
