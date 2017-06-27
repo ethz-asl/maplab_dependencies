@@ -13,9 +13,6 @@
 [submodule "suitesparse"]
 	path = suitesparse
 	url = git@github.com:ethz-asl/suitesparse.git
-[submodule "catkin_zeromq"]
-	path = catkin_zeromq
-	url = git@github.com:ethz-asl/catkin_zeromq.git
 [submodule "catkin_poco"]
 	path = catkin_poco
 	url = git@github.com:ethz-asl/catkin_poco.git
