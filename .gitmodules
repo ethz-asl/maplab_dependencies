@@ -67,3 +67,6 @@
 [submodule "benchmark_catkin"]
 	path = benchmark_catkin
 	url = git@github.com:ethz-asl/benchmark_catkin.git
+[submodule "gps_umd"]
+	path = gps_umd
+	url = git@github.com:ethz-asl/gps_umd.git
