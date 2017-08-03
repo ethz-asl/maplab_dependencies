@@ -40,12 +40,6 @@
 [submodule "metis_catkin"]
 	path = metis_catkin
 	url = git@github.com:ethz-asl/metis_catkin.git
-[submodule "openvdb_catkin"]
-	path = openvdb_catkin
-	url = git@github.com:ethz-asl/openvdb_catkin.git
-[submodule "cmvs_pmvs_catkin"]
-	path = cmvs_pmvs_catkin
-	url = git@github.com:ethz-asl/cmvs_pmvs_catkin.git
 [submodule "opencv3_catkin"]
 	path = opencv3_catkin
 	url = git@github.com:ethz-asl/opencv3_catkin.git
