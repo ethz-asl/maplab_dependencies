@@ -105,3 +105,6 @@
 [submodule "evaluation_tools"]
 	path = internal/evaluation_tools
 	url = git@github.com:ethz-asl/evaluation_tools.git
+[submodule "internal/fw_gtsam_extensions"]
+	path = internal/fw_gtsam_extensions
+	url = git@github.com:ethz-asl/fw_gtsam_extensions.git
