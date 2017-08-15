@@ -1,69 +1,69 @@
 [submodule "protobuf_catkin"]
-	path = thirdparty/protobuf_catkin
+	path = 3rdparty/protobuf_catkin
 	url = git@github.com:ethz-asl/protobuf_catkin.git
 [submodule "glog_catkin"]
-	path = thirdparty/glog_catkin
+	path = 3rdparty/glog_catkin
 	url = git@github.com:ethz-asl/glog_catkin.git
 [submodule "gflags_catkin"]
-	path = thirdparty/gflags_catkin
+	path = 3rdparty/gflags_catkin
 	url = git@github.com:ethz-asl/gflags_catkin.git
 [submodule "ceres_catkin"]
-	path = thirdparty/ceres_catkin
+	path = 3rdparty/ceres_catkin
 	url = git@github.com:ethz-asl/ceres_catkin.git
 [submodule "suitesparse"]
-	path = thirdparty/suitesparse
+	path = 3rdparty/suitesparse
 	url = git@github.com:ethz-asl/suitesparse.git
 [submodule "zeromq_catkin"]
-	path = thirdparty/zeromq_catkin
+	path = 3rdparty/zeromq_catkin
 	url = git@github.com:ethz-asl/zeromq_catkin.git
 [submodule "eigen_catkin"]
-	path = thirdparty/eigen_catkin
+	path = 3rdparty/eigen_catkin
 	url = git@github.com:ethz-asl/eigen_catkin.git
 [submodule "yaml_cpp_catkin"]
-	path = thirdparty/yaml_cpp_catkin
+	path = 3rdparty/yaml_cpp_catkin
 	url = git@github.com:ethz-asl/yaml_cpp_catkin.git
 [submodule "sparsehash_catkin"]
-	path = thirdparty/sparsehash_catkin
+	path = 3rdparty/sparsehash_catkin
 	url = git@github.com:ethz-asl/sparsehash_catkin.git
 [submodule "nlopt"]
-	path = thirdparty/nlopt
+	path = 3rdparty/nlopt
 	url = git@github.com:ethz-asl/nlopt.git
 [submodule "gtsam_catkin"]
-	path = thirdparty/gtsam_catkin
+	path = 3rdparty/gtsam_catkin
 	url = git@github.com:ethz-asl/gtsam_catkin.git
 [submodule "lpsolve_catkin"]
-	path = thirdparty/lpsolve_catkin
+	path = 3rdparty/lpsolve_catkin
 	url = git@github.com:ethz-asl/lpsolve_catkin.git
 [submodule "metis_catkin"]
-	path = thirdparty/metis_catkin
+	path = 3rdparty/metis_catkin
 	url = git@github.com:ethz-asl/metis_catkin.git
 [submodule "opencv3_catkin"]
-	path = thirdparty/opencv3_catkin
+	path = 3rdparty/opencv3_catkin
 	url = git@github.com:ethz-asl/opencv3_catkin.git
 [submodule "vision_opencv"]
-	path = thirdparty/vision_opencv
+	path = 3rdparty/vision_opencv
 	url = git@github.com:ethz-asl/vision_opencv.git
 [submodule "pcl_catkin"]
-	path = thirdparty/pcl_catkin
+	path = 3rdparty/pcl_catkin
 	url = git@github.com:ethz-asl/pcl_catkin.git
 [submodule "benchmark_catkin"]
-	path = thirdparty/benchmark_catkin
+	path = 3rdparty/benchmark_catkin
 	url = git@github.com:ethz-asl/benchmark_catkin.git
 [submodule "gps_umd"]
-	path = thirdparty/gps_umd
+	path = 3rdparty/gps_umd
 	url = git@github.com:ethz-asl/gps_umd.git
 [submodule "opengv"]
-	path = thirdparty/opengv
+	path = 3rdparty/opengv
 	url = git@github.com:ethz-asl/opengv.git
 [submodule "doxygen_catkin"]
-	path = thirdparty/doxygen_catkin
+	path = 3rdparty/doxygen_catkin
 	url = git@github.com:ethz-asl/doxygen_catkin.git
 [submodule "catkin_simple"]
-	path = thirdparty/catkin_simple
+	path = 3rdparty/catkin_simple
 	url = git@github.com:catkin/catkin_simple.git
 
 [submodule "gurobi_catkin"]
-	path = closed/gurobi_catkin
+	path = 3rdparty_closed/gurobi_catkin
 	url = git@github.com:ethz-asl/gurobi_catkin.git
 
 [submodule "voxblox"]
