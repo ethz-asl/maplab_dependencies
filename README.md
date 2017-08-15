@@ -1,10 +1,10 @@
-thirdparty_submodules
-=====================
+maplab_dependencies
+===================
 
-A repository holding submodules of thirdparty repositories
+A repository holding submodules with maplab dependencies
 
 ###Installation
 
 ```bash
-git clone --recursive git@github.com:ethz-asl/thirdparty_submodules.git
+git clone --recursive git@github.com:ethz-asl/maplab_dependencies.git
 ```
