@@ -102,3 +102,6 @@
 [submodule "kindr"]
 	path = internal/kindr
 	url = git@github.com:ethz-asl/kindr.git
+[submodule "evaluation_tools"]
+	path = internal/evaluation_tools
+	url = git@github.com:ethz-asl/evaluation_tools.git
