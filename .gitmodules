@@ -52,3 +52,37 @@
 [submodule "gps_umd"]
 	path = thirdparty/gps_umd
 	url = git@github.com:ethz-asl/gps_umd.git
+
+[submodule "gurobi_catkin"]
+	path = closed/gurobi_catkin
+	url = git@github.com:ethz-asl/gurobi_catkin.git
+[submodule "internal/voxblox"]
+	path = internal/voxblox
+	url = git@github.com:ethz-asl/voxblox.git
+[submodule "internal/ethzasl_brisk"]
+	path = internal/ethzasl_brisk
+	url = git@github.com:ethz-asl/ethzasl_brisk.git
+[submodule "internal/ethzasl_apriltag2"]
+	path = internal/ethzasl_apriltag2
+	url = git@github.com:ethz-asl/ethzasl_apriltag2.git
+[submodule "internal/eigen_checks"]
+	path = internal/eigen_checks
+	url = git@github.com:ethz-asl/eigen_checks.git
+[submodule "internal/libnabo"]
+	path = internal/libnabo
+	url = git@github.com:ethz-asl/libnabo.git
+[submodule "internal/minkindr"]
+	path = internal/minkindr
+	url = git@github.com:ethz-asl/minkindr.git
+[submodule "internal/minkindr_ros"]
+	path = internal/minkindr_ros
+	url = git@github.com:ethz-asl/minkindr_ros.git
+[submodule "thirdparty/opengv"]
+	path = thirdparty/opengv
+	url = git@github.com:ethz-asl/opengv.git
+[submodule "internal/volumetric_mapping"]
+	path = internal/volumetric_mapping
+	url = git@github.com:ethz-asl/volumetric_mapping.git
+[submodule "internal/mono_dense_reconstruction"]
+	path = internal/mono_dense_reconstruction
+	url = git@github.com:ethz-asl/mono_dense_reconstruction.git
