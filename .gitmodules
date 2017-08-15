@@ -65,6 +65,7 @@
 [submodule "gurobi_catkin"]
 	path = closed/gurobi_catkin
 	url = git@github.com:ethz-asl/gurobi_catkin.git
+
 [submodule "voxblox"]
 	path = internal/voxblox
 	url = git@github.com:ethz-asl/voxblox.git
@@ -95,9 +96,9 @@
 [submodule "maplab_rovio"]
 	path = internal/maplab_rovio
 	url = git@github.com:ethz-asl/maplab_rovio.git
-[submodule "internal/maplab_lightweight_filtering"]
+[submodule "maplab_lightweight_filtering"]
 	path = internal/maplab_lightweight_filtering
 	url = git@github.com:ethz-asl/maplab_lightweight_filtering.git
-[submodule "internal/kindr"]
+[submodule "kindr"]
 	path = internal/kindr
 	url = git@github.com:ethz-asl/kindr.git
