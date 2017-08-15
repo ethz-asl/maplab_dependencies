@@ -1,57 +1,54 @@
 [submodule "protobuf_catkin"]
-	path = protobuf_catkin
+	path = thirdparty/protobuf_catkin
 	url = git@github.com:ethz-asl/protobuf_catkin.git
 [submodule "glog_catkin"]
-	path = glog_catkin
+	path = thirdparty/glog_catkin
 	url = git@github.com:ethz-asl/glog_catkin.git
 [submodule "gflags_catkin"]
-	path = gflags_catkin
+	path = thirdparty/gflags_catkin
 	url = git@github.com:ethz-asl/gflags_catkin.git
 [submodule "ceres_catkin"]
-	path = ceres_catkin
+	path = thirdparty/ceres_catkin
 	url = git@github.com:ethz-asl/ceres_catkin.git
 [submodule "suitesparse"]
-	path = suitesparse
+	path = thirdparty/suitesparse
 	url = git@github.com:ethz-asl/suitesparse.git
 [submodule "zeromq_catkin"]
-	path = zeromq_catkin
+	path = thirdparty/zeromq_catkin
 	url = git@github.com:ethz-asl/zeromq_catkin.git
 [submodule "eigen_catkin"]
-	path = eigen_catkin
+	path = thirdparty/eigen_catkin
 	url = git@github.com:ethz-asl/eigen_catkin.git
 [submodule "yaml_cpp_catkin"]
-	path = yaml_cpp_catkin
+	path = thirdparty/yaml_cpp_catkin
 	url = git@github.com:ethz-asl/yaml_cpp_catkin.git
 [submodule "sparsehash_catkin"]
-	path = sparsehash_catkin
+	path = thirdparty/sparsehash_catkin
 	url = git@github.com:ethz-asl/sparsehash_catkin.git
-[submodule "stxxl_catkin"]
-	path = stxxl_catkin
-	url = git@github.com:ethz-asl/stxxl_catkin.git
 [submodule "nlopt"]
-	path = nlopt
+	path = thirdparty/nlopt
 	url = git@github.com:ethz-asl/nlopt.git
 [submodule "gtsam_catkin"]
-	path = gtsam_catkin
+	path = thirdparty/gtsam_catkin
 	url = git@github.com:ethz-asl/gtsam_catkin.git
 [submodule "lpsolve_catkin"]
-	path = lpsolve_catkin
+	path = thirdparty/lpsolve_catkin
 	url = git@github.com:ethz-asl/lpsolve_catkin.git
 [submodule "metis_catkin"]
-	path = metis_catkin
+	path = thirdparty/metis_catkin
 	url = git@github.com:ethz-asl/metis_catkin.git
 [submodule "opencv3_catkin"]
-	path = opencv3_catkin
+	path = thirdparty/opencv3_catkin
 	url = git@github.com:ethz-asl/opencv3_catkin.git
 [submodule "vision_opencv"]
-	path = vision_opencv
+	path = thirdparty/vision_opencv
 	url = git@github.com:ethz-asl/vision_opencv.git
 [submodule "pcl_catkin"]
-	path = pcl_catkin
+	path = thirdparty/pcl_catkin
 	url = git@github.com:ethz-asl/pcl_catkin.git
 [submodule "benchmark_catkin"]
-	path = benchmark_catkin
+	path = thirdparty/benchmark_catkin
 	url = git@github.com:ethz-asl/benchmark_catkin.git
 [submodule "gps_umd"]
-	path = gps_umd
+	path = thirdparty/gps_umd
 	url = git@github.com:ethz-asl/gps_umd.git
