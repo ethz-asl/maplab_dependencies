@@ -86,3 +86,9 @@
 [submodule "internal/mono_dense_reconstruction"]
 	path = internal/mono_dense_reconstruction
 	url = git@github.com:ethz-asl/mono_dense_reconstruction.git
+[submodule "thirdparty/doxygen_catkin"]
+	path = thirdparty/doxygen_catkin
+	url = git@github.com:ethz-asl/doxygen_catkin.git
+[submodule "thirdparty/catkin_simple"]
+	path = thirdparty/catkin_simple
+	url = git@github.com:catkin/catkin_simple.git
