@@ -90,9 +90,6 @@
 [submodule "volumetric_mapping"]
 	path = internal/volumetric_mapping
 	url = git@github.com:ethz-asl/volumetric_mapping.git
-[submodule "mono_dense_reconstruction"]
-	path = internal/mono_dense_reconstruction
-	url = git@github.com:ethz-asl/mono_dense_reconstruction.git
 [submodule "maplab_rovio"]
 	path = internal/maplab_rovio
 	url = git@github.com:ethz-asl/maplab_rovio.git
@@ -105,6 +102,9 @@
 [submodule "evaluation_tools"]
 	path = internal/evaluation_tools
 	url = git@github.com:ethz-asl/evaluation_tools.git
-[submodule "internal/fw_gtsam_extensions"]
+[submodule "fw_gtsam_extensions"]
 	path = internal/fw_gtsam_extensions
 	url = git@github.com:ethz-asl/fw_gtsam_extensions.git
+[submodule "open_mono_dense_reconstruction"]
+	path = internal/open_mono_dense_reconstruction
+	url = git@github.com:ethz-asl/open_mono_dense_reconstruction.git
