@@ -43,9 +43,6 @@
 [submodule "vision_opencv"]
 	path = 3rdparty/vision_opencv
 	url = git@github.com:ethz-asl/vision_opencv.git
-[submodule "pcl_catkin"]
-	path = 3rdparty/pcl_catkin
-	url = git@github.com:ethz-asl/pcl_catkin.git
 [submodule "benchmark_catkin"]
 	path = 3rdparty/benchmark_catkin
 	url = git@github.com:ethz-asl/benchmark_catkin.git
