@@ -102,3 +102,6 @@
 [submodule "open_mono_dense_reconstruction"]
 	path = internal/open_mono_dense_reconstruction
 	url = git@github.com:ethz-asl/open_mono_dense_reconstruction.git
+[submodule "internal/plotty"]
+	path = internal/plotty
+	url = git@github.com:ethz-asl/plotty.git
