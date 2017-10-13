@@ -105,3 +105,6 @@
 [submodule "internal/plotty"]
 	path = internal/plotty
 	url = git@github.com:ethz-asl/plotty.git
+[submodule "internal/hand_eye_calibration"]
+	path = internal/hand_eye_calibration
+	url = git@github.com:ethz-asl/hand_eye_calibration.git
