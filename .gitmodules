@@ -13,21 +13,12 @@
 [submodule "suitesparse"]
 	path = 3rdparty/suitesparse
 	url = git@github.com:ethz-asl/suitesparse.git
-[submodule "zeromq_catkin"]
-	path = 3rdparty/zeromq_catkin
-	url = git@github.com:ethz-asl/zeromq_catkin.git
 [submodule "eigen_catkin"]
 	path = 3rdparty/eigen_catkin
 	url = git@github.com:ethz-asl/eigen_catkin.git
 [submodule "yaml_cpp_catkin"]
 	path = 3rdparty/yaml_cpp_catkin
 	url = git@github.com:ethz-asl/yaml_cpp_catkin.git
-[submodule "sparsehash_catkin"]
-	path = 3rdparty/sparsehash_catkin
-	url = git@github.com:ethz-asl/sparsehash_catkin.git
-[submodule "nlopt"]
-	path = 3rdparty/nlopt
-	url = git@github.com:ethz-asl/nlopt.git
 [submodule "gtsam_catkin"]
 	path = 3rdparty/gtsam_catkin
 	url = git@github.com:ethz-asl/gtsam_catkin.git
@@ -43,9 +34,6 @@
 [submodule "vision_opencv"]
 	path = 3rdparty/vision_opencv
 	url = git@github.com:ethz-asl/vision_opencv.git
-[submodule "benchmark_catkin"]
-	path = 3rdparty/benchmark_catkin
-	url = git@github.com:ethz-asl/benchmark_catkin.git
 [submodule "gps_umd"]
 	path = 3rdparty/gps_umd
 	url = git@github.com:ethz-asl/gps_umd.git
@@ -84,21 +72,12 @@
 [submodule "minkindr_ros"]
 	path = internal/minkindr_ros
 	url = git@github.com:ethz-asl/minkindr_ros.git
-[submodule "volumetric_mapping"]
-	path = internal/volumetric_mapping
-	url = git@github.com:ethz-asl/volumetric_mapping.git
 [submodule "maplab_rovio"]
 	path = internal/maplab_rovio
 	url = git@github.com:ethz-asl/maplab_rovio.git
 [submodule "kindr"]
 	path = internal/kindr
 	url = git@github.com:ethz-asl/kindr.git
-[submodule "evaluation_tools"]
-	path = internal/evaluation_tools
-	url = git@github.com:ethz-asl/evaluation_tools.git
-[submodule "fw_gtsam_extensions"]
-	path = internal/fw_gtsam_extensions
-	url = git@github.com:ethz-asl/fw_gtsam_extensions.git
 [submodule "open_mono_dense_reconstruction"]
 	path = internal/open_mono_dense_reconstruction
 	url = git@github.com:ethz-asl/open_mono_dense_reconstruction.git
