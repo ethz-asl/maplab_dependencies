@@ -19,9 +19,6 @@
 [submodule "yaml_cpp_catkin"]
 	path = 3rdparty/yaml_cpp_catkin
 	url = git@github.com:ethz-asl/yaml_cpp_catkin.git
-[submodule "gtsam_catkin"]
-	path = 3rdparty/gtsam_catkin
-	url = git@github.com:ethz-asl/gtsam_catkin.git
 [submodule "lpsolve_catkin"]
 	path = 3rdparty/lpsolve_catkin
 	url = git@github.com:ethz-asl/lpsolve_catkin.git
