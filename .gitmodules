@@ -31,9 +31,6 @@
 [submodule "vision_opencv"]
 	path = 3rdparty/vision_opencv
 	url = git@github.com:ethz-asl/vision_opencv.git
-[submodule "gps_umd"]
-	path = 3rdparty/gps_umd
-	url = git@github.com:ethz-asl/gps_umd.git
 [submodule "opengv"]
 	path = 3rdparty/opengv
 	url = git@github.com:ethz-asl/opengv.git
