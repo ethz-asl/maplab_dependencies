@@ -41,10 +41,6 @@
 	path = 3rdparty/catkin_simple
 	url = https://github.com/catkin/catkin_simple.git
 
-[submodule "gurobi_catkin"]
-	path = 3rdparty_closed/gurobi_catkin
-	url = https://github.com/ethz-asl/gurobi_catkin.git
-
 [submodule "voxblox"]
 	path = internal/voxblox
 	url = https://github.com/ethz-asl/voxblox.git
