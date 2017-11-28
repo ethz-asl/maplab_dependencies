@@ -1,80 +1,76 @@
 [submodule "protobuf_catkin"]
 	path = 3rdparty/protobuf_catkin
-	url = git@github.com:ethz-asl/protobuf_catkin.git
+	url = https://github.com/ethz-asl/protobuf_catkin.git
 [submodule "glog_catkin"]
 	path = 3rdparty/glog_catkin
-	url = git@github.com:ethz-asl/glog_catkin.git
+	url = https://github.com/ethz-asl/glog_catkin.git
 [submodule "gflags_catkin"]
 	path = 3rdparty/gflags_catkin
-	url = git@github.com:ethz-asl/gflags_catkin.git
+	url = https://github.com/ethz-asl/gflags_catkin.git
 [submodule "ceres_catkin"]
 	path = 3rdparty/ceres_catkin
-	url = git@github.com:ethz-asl/ceres_catkin.git
+	url = https://github.com/ethz-asl/ceres_catkin.git
 [submodule "suitesparse"]
 	path = 3rdparty/suitesparse
-	url = git@github.com:ethz-asl/suitesparse.git
+	url = https://github.com/ethz-asl/suitesparse.git
 [submodule "eigen_catkin"]
 	path = 3rdparty/eigen_catkin
-	url = git@github.com:ethz-asl/eigen_catkin.git
+	url = https://github.com/ethz-asl/eigen_catkin.git
 [submodule "yaml_cpp_catkin"]
 	path = 3rdparty/yaml_cpp_catkin
-	url = git@github.com:ethz-asl/yaml_cpp_catkin.git
+	url = https://github.com/ethz-asl/yaml_cpp_catkin.git
 [submodule "lpsolve_catkin"]
 	path = 3rdparty/lpsolve_catkin
-	url = git@github.com:ethz-asl/lpsolve_catkin.git
+	url = https://github.com/ethz-asl/lpsolve_catkin.git
 [submodule "metis_catkin"]
 	path = 3rdparty/metis_catkin
-	url = git@github.com:ethz-asl/metis_catkin.git
+	url = https://github.com/ethz-asl/metis_catkin.git
 [submodule "opencv3_catkin"]
 	path = 3rdparty/opencv3_catkin
-	url = git@github.com:ethz-asl/opencv3_catkin.git
+	url = https://github.com/ethz-asl/opencv3_catkin.git
 [submodule "vision_opencv"]
 	path = 3rdparty/vision_opencv
-	url = git@github.com:ethz-asl/vision_opencv.git
+	url = https://github.com/ethz-asl/vision_opencv.git
 [submodule "opengv"]
 	path = 3rdparty/opengv
-	url = git@github.com:ethz-asl/opengv.git
+	url = https://github.com/ethz-asl/opengv.git
 [submodule "doxygen_catkin"]
 	path = 3rdparty/doxygen_catkin
-	url = git@github.com:ethz-asl/doxygen_catkin.git
+	url = https://github.com/ethz-asl/doxygen_catkin.git
 [submodule "catkin_simple"]
 	path = 3rdparty/catkin_simple
-	url = git@github.com:catkin/catkin_simple.git
-
-[submodule "gurobi_catkin"]
-	path = 3rdparty_closed/gurobi_catkin
-	url = git@github.com:ethz-asl/gurobi_catkin.git
+	url = https://github.com/catkin/catkin_simple.git
 
 [submodule "voxblox"]
 	path = internal/voxblox
-	url = git@github.com:ethz-asl/voxblox.git
+	url = https://github.com/ethz-asl/voxblox.git
 [submodule "ethzasl_brisk"]
 	path = internal/ethzasl_brisk
-	url = git@github.com:ethz-asl/ethzasl_brisk.git
+	url = https://github.com/ethz-asl/ethzasl_brisk.git
 [submodule "ethzasl_apriltag2"]
 	path = internal/ethzasl_apriltag2
-	url = git@github.com:ethz-asl/ethzasl_apriltag2.git
+	url = https://github.com/ethz-asl/ethzasl_apriltag2.git
 [submodule "eigen_checks"]
 	path = internal/eigen_checks
-	url = git@github.com:ethz-asl/eigen_checks.git
+	url = https://github.com/ethz-asl/eigen_checks.git
 [submodule "libnabo"]
 	path = internal/libnabo
-	url = git@github.com:ethz-asl/libnabo.git
+	url = https://github.com/ethz-asl/libnabo.git
 [submodule "minkindr"]
 	path = internal/minkindr
-	url = git@github.com:ethz-asl/minkindr.git
+	url = https://github.com/ethz-asl/minkindr.git
 [submodule "minkindr_ros"]
 	path = internal/minkindr_ros
-	url = git@github.com:ethz-asl/minkindr_ros.git
+	url = https://github.com/ethz-asl/minkindr_ros.git
 [submodule "maplab_rovio"]
 	path = internal/maplab_rovio
-	url = git@github.com:ethz-asl/maplab_rovio.git
+	url = https://github.com/ethz-asl/maplab_rovio.git
 [submodule "kindr"]
 	path = internal/kindr
-	url = git@github.com:ethz-asl/kindr.git
+	url = https://github.com/ethz-asl/kindr.git
 [submodule "internal/plotty"]
 	path = internal/plotty
-	url = git@github.com:ethz-asl/plotty.git
+	url = https://github.com/ethz-asl/plotty.git
 [submodule "internal/hand_eye_calibration"]
 	path = internal/hand_eye_calibration
-	url = git@github.com:ethz-asl/hand_eye_calibration.git
+	url = https://github.com/ethz-asl/hand_eye_calibration.git
