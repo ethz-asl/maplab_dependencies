@@ -74,3 +74,6 @@
 [submodule "internal/hand_eye_calibration"]
 	path = internal/hand_eye_calibration
 	url = https://github.com/ethz-asl/hand_eye_calibration.git
+[submodule "3rdparty/benchmark_catkin"]
+	path = 3rdparty/benchmark_catkin
+	url = https://github.com/ethz-asl/benchmark_catkin.git
