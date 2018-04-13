@@ -77,3 +77,6 @@
 [submodule "3rdparty/benchmark_catkin"]
 	path = 3rdparty/benchmark_catkin
 	url = https://github.com/ethz-asl/benchmark_catkin.git
+[submodule "internal/ros-system-monitor"]
+	path = internal/ros-system-monitor
+	url = https://github.com/ethz-asl/ros-system-monitor
