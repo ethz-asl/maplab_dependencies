@@ -80,3 +80,6 @@
 [submodule "internal/ros-system-monitor"]
 	path = internal/ros-system-monitor
 	url = https://github.com/ethz-asl/ros-system-monitor
+[submodule "internal/linter"]
+	path = internal/linter
+	url = https://github.com/ethz-asl/linter.git
