@@ -83,6 +83,3 @@
 [submodule "internal/linter"]
 	path = internal/linter
 	url = https://github.com/ethz-asl/linter.git
-[submodule "internal/evaluation_tools"]
-	path = internal/evaluation_tools
-	url = https://github.com/ethz-asl/evaluation_tools.git
