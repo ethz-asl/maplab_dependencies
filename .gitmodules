@@ -83,3 +83,6 @@
 [submodule "internal/linter"]
 	path = internal/linter
 	url = https://github.com/ethz-asl/linter.git
+[submodule "internal/two_state_information_filter"]
+	path = internal/two_state_information_filter
+	url = git@github.com:leggedrobotics/two_state_information_filter.git
