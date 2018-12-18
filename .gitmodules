@@ -85,5 +85,5 @@
 	url = https://github.com/ethz-asl/linter.git
 [submodule "3rdparty/mask_rcnn_ros"]
 	path = 3rdparty/mask_rcnn_ros
-	url = https://github.com/ethz-asl/mask_rcnn_ros.git
+	url = git@github.com:ethz-asl/mask_rcnn_ros.git
 	branch = jc-semantify
