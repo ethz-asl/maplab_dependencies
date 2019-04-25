@@ -86,3 +86,6 @@
 [submodule "internal/two_state_information_filter"]
 	path = internal/two_state_information_filter
 	url = git@github.com:leggedrobotics/two_state_information_filter.git
+[submodule "internal/maplab_msgs"]
+	path = internal/maplab_msgs
+	url = git@github.com:ethz-asl/maplab_msgs.git
