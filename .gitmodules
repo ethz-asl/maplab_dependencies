@@ -85,4 +85,4 @@
 	url = https://github.com/ethz-asl/linter.git
 [submodule "internal/maplab_msgs"]
 	path = internal/maplab_msgs
-	url = git@github.com:ethz-asl/maplab_msgs.git
+	url = https://github.com/ethz-asl/maplab_msgs.git
