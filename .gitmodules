@@ -40,7 +40,6 @@
 [submodule "catkin_simple"]
 	path = 3rdparty/catkin_simple
 	url = https://github.com/catkin/catkin_simple.git
-
 [submodule "voxblox"]
 	path = internal/voxblox
 	url = https://github.com/ethz-asl/voxblox.git
@@ -87,3 +86,6 @@
 	path = 3rdparty/mask_rcnn_ros
 	url = git@github.com:ethz-asl/mask_rcnn_ros.git
 	branch = jc-semantify
+[submodule "internal/maplab_msgs"]
+	path = internal/maplab_msgs
+	url = https://github.com/ethz-asl/maplab_msgs.git
