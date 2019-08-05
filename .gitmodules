@@ -40,6 +40,9 @@
 [submodule "catkin_simple"]
 	path = 3rdparty/catkin_simple
 	url = https://github.com/catkin/catkin_simple.git
+[submodule "arl_apriltags2_ros"]
+	path = 3rdparty/arl_apriltags2_ros
+	url = git@github.com:ethz-asl/arl_apriltags2_ros.git
 
 [submodule "voxblox"]
 	path = internal/voxblox
