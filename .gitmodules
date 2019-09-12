@@ -82,10 +82,11 @@
 [submodule "internal/linter"]
 	path = internal/linter
 	url = https://github.com/ethz-asl/linter.git
-[submodule "3rdparty/mask_rcnn_ros"]
-	path = 3rdparty/mask_rcnn_ros
-	url = git@github.com:ethz-asl/mask_rcnn_ros.git
-	branch = jc-semantify
 [submodule "internal/maplab_msgs"]
 	path = internal/maplab_msgs
 	url = https://github.com/ethz-asl/maplab_msgs.git
+[submodule "3rdparty/mask_rcnn_ros_private"]
+	path = 3rdparty/mask_rcnn_ros_private
+	url = git@github.com:ethz-asl/mask_rcnn_ros_private.git
+	branch = jc-semantify
+
