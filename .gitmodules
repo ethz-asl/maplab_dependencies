@@ -89,3 +89,6 @@
 [submodule "3rdparty/arl_apriltags2_ros"]
 	path = 3rdparty/arl_apriltags2_ros
 	url = git@github.com:ethz-asl/arl_apriltags2_ros.git
+[submodule "3rdparty/kcf_catkin"]
+	path = 3rdparty/kcf_catkin
+	url = git@github.com:smauq/kcf_catkin.git
