@@ -2,6 +2,8 @@
 geometry_msgs/PointStamped point
 # The detection image from darknet
 sensor_msgs/Image image
+# The detection image from darknet compressed
+sensor_msgs/CompressedImage compressed_image
 # Filtered Label of Artifact
 std_msgs/String class_label
 # Filtered Probability of Artifact

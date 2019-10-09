@@ -26,5 +26,5 @@ generate_messages(
 )
 
 catkin_package(
-  CATKIN_DEPENDS message_runtime geometry_msgs sensor_msgs
+  CATKIN_DEPENDS message_runtime geometry_msgs sensor_msgs 
 )
