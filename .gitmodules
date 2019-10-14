@@ -89,3 +89,6 @@
 [submodule "3rdparty/kcf_catkin"]
 	path = 3rdparty/kcf_catkin
 	url = git@github.com:smauq/kcf_catkin.git
+[submodule "3rdparty/darknet_catkin"]
+	path = 3rdparty/darknet_catkin
+	url = git@github.com:smauq/darknet_catkin.git
