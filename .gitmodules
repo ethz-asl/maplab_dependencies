@@ -40,7 +40,6 @@
 [submodule "catkin_simple"]
 	path = 3rdparty/catkin_simple
 	url = https://github.com/catkin/catkin_simple.git
-
 [submodule "voxblox"]
 	path = internal/voxblox
 	url = https://github.com/ethz-asl/voxblox.git
