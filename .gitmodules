@@ -88,3 +88,6 @@
 [submodule "3rdparty/arl_apriltags2_ros"]
 	path = 3rdparty/arl_apriltags2_ros
 	url = git@github.com:ethz-asl/arl_apriltags2_ros.git
+[submodule "internal/maplab_tools"]
+	path = internal/maplab_tools
+	url = git@github.com:ethz-asl/maplab_tools.git
