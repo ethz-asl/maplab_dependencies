@@ -1,6 +1,6 @@
 [submodule "protobuf_catkin"]
 	path = 3rdparty/protobuf_catkin
-	url = https://github.com/ethz-asl/protobuf_catkin.git
+	url =git@git.zhlh6.cn:ethz-asl/protobuf_catkin.git
 [submodule "glog_catkin"]
 	path = 3rdparty/glog_catkin
 	url = https://github.com/ethz-asl/glog_catkin.git
